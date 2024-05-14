@@ -13,5 +13,5 @@
 
 
 
-###Bibliography:
-###[site/en/tutorials/quickstart_colab.ipynb](https://github.com/google/generative-ai-docs/blob/main/site/en/tutorials/quickstart_colab.ipynb)
+### Bibliography:
+#### [site/en/tutorials/quickstart_colab.ipynb](https://github.com/google/generative-ai-docs/blob/main/site/en/tutorials/quickstart_colab.ipynb)
