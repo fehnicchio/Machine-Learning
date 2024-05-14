@@ -8,4 +8,4 @@
 ## ChatBot:
 
 ### For this porject, I used the Gemini's API to create a Chatbot. This code was created with Imersão IA with Alura and Google
-### To use, you need to put your API Key(created in Google Ai Studio), copy than paste in "YOUR_API_Key".
+### To use, you need to put your API Key(created in Google AI Studio), copy than paste in "YOUR_API_Key".
