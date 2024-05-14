@@ -1,4 +1,4 @@
-# Repository for projects of Machine Learning
+# Repository for Machine Learning's projects
 
 ## EficcientNet:
 
