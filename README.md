@@ -16,4 +16,4 @@
 
 ### Bibliography:
 #### [site/en/tutorials/quickstart_colab.ipynb](https://github.com/google/generative-ai-docs/blob/main/site/en/tutorials/quickstart_colab.ipynb)
-### https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br
+#### https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br
